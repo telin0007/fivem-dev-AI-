@@ -1,0 +1,5 @@
+{
+  "name": "FiveM Dev Forge AI",
+  "description": "An advanced production-ready FiveM resource and base generator using Gemini 3.0 Pro. Generate modular, optimized scripts for QBCore, ESX, vRP, and more.",
+  "requestFramePermissions": []
+}
